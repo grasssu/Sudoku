@@ -9,7 +9,9 @@
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n ";
+    char keyboard[10m][10] = { ".........", \
+                            "         ",
+                            "         ",
+        "         "}
     return 0;
 }
